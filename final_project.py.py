@@ -223,6 +223,8 @@ def bolingerBandStrategy(prices):
 
 #driver code
 if __name__ == '__main__':
+
+    print("final project")
     tickers = ["aapl",	"bbby",	"goog",	"adbe",	"car", "amc", "cvx","csco","bac","tsla"]
 
     #create a pandas dataframe to store the whoel data
